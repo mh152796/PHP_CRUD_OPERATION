@@ -111,7 +111,7 @@ th, td {
     ?>
     <input type="submit" name="update" value="update"/>
     <?php else: ?>
-        <input type="submit" name="submit" value="submit"/>
+        <input type="submit" name="submit"/>
     <?php endif; ?>
     
    </form>
